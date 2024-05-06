@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Olá, meu nome é Eduardo Girão.</h1>
-<h2> Atualmente estudando na escola Etec Antonio Devisate,</br>cursando 3º M-TEC PI em Desenvolvimento de Sistemas.</h2>
+<h1 align="center">Olá, meu nome é Eduardo.</h1>
+<h3> Atualmente estudando na escola Etec Antonio Devisate, cursando 3º M-TEC PI em Desenvolvimento de Sistemas.</h3>
 <div align="center"></div>
 
 
@@ -10,8 +10,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
   </a>
-  <h3>Aprendendo:</h3>
+  <h3>Aprendendo / Pretende aprender:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,lua,vuejs" />
+    <img src="https://skillicons.dev/icons?i=vuejs,godot,lua,unity" />
   </a>
 </div>
