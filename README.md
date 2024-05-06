@@ -10,8 +10,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
   </a>
-  <h3>Aprendendo / Pretende aprender:</h3>
+  <h3>Aprendendo:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,godot,lua,unity" />
+    <img src="https://skillicons.dev/icons?i=vuejs,lua" />
+  </a>
+  <h3>Pretendo aprender:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
   </a>
 </div>
