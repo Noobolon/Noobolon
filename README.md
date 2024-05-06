@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Olá, meu nome é Eduardo.</h1>
-<h3> Atualmente estudando na escola Etec Antonio Devisate, cursando 3º M-TEC PI em Desenvolvimento de Sistemas.</h3>
+<h3> Atualmente estudando na Etec, cursando 3º M-TEC PI em Desenvolvimento de Sistemas.</h3>
 <div align="center"></div>
 
 
