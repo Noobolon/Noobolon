@@ -6,7 +6,7 @@
 
 
 <div>
-  <h3>Tecnologias conhecidas:</h3>
+  <h3>Conheço / aprendendo:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,vuejs,lua" />
   </a>
