@@ -8,11 +8,7 @@
 <div>
   <h3>Tecnologias conhecidas:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
-  </a>
-  <h3>Aprendendo:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,lua" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,vuejs,lua" />
   </a>
   <h3>Pretendo aprender:</h3>
   <a href="https://skillicons.dev">
