@@ -5,13 +5,13 @@
 <div align="center"></div>
 
 <div>
-  <h3>Conheço o básico:</h3>
+  <h3>Conheço:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vuejs" />
   </a>
   <h3>Aprendendo:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vuejs,python,lua" />
+    <img src="https://skillicons.dev/icons?i=python,lua" />
   </a>
   <h3>Pretendo aprender:</h3>
   <a href="https://skillicons.dev">
