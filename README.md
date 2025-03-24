@@ -11,6 +11,6 @@
   </a>
   <h3>Pretendo aprender:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,cs" />
   </a>
 </div>
